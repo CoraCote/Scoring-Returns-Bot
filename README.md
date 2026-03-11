@@ -2,7 +2,7 @@
   <h1>Scoring Returns Bot</h1>
   <br/>
   
-  <p><i>A powerful Discord bot that tracks live football matches and provides real-time updates, statistics, and events, similar to popular sports platforms like FlashScore and LiveScore. <br/>Created by <a href="https://x.com/bernKing20">@bernKing20</a>.</i></p>
+  <p><i>A powerful Discord bot that tracks live football matches and provides real-time updates, statistics, and events, similar to popular sports platforms like FlashScore and LiveScore. <br/>Created by VRTeam.</i></p>
   <br />
 </div>
 
